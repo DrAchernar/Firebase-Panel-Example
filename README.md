@@ -6,7 +6,7 @@
  Used php-firebase sdk from > https://github.com/kreait/firebase-php
 
  Step 1 : 
-Create new profile and app on Auth0 Management Panel, set your configuration by following docs of Auth0. Download your pre-packed php files from QuickStart step. Follow guide and complate Auth0 side.
+Create new profile and app on Auth0 Management Panel, set your configuration by following docs of Auth0. Download your pre-packed php files from QuickStart step and move them to "adminpanel" folder..
 Or create step by step manuelly. You need to be check configurations on settings section and you need to update your changes both two side on your local files(especially .env file) and on settings page(auth0.com)
 .. 
  Step 2:
@@ -14,7 +14,7 @@ Go to "sender" folder in main directory  and install composer from kreait's php-
 ```
 composer install
 ```
-Just it :) 
+Check my db.json , compare with your firebase db. Just it :)  
 If you will use this  on a public server, dont forget to care security and privacy settings 
 
 
