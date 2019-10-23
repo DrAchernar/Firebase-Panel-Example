@@ -17,5 +17,3 @@ composer install
 Check my db.json , compare with your firebase db. Just it :)  
 If you will use this  on a public server, dont forget to care security and privacy settings 
 
-Maybe you wonder mobile apps, they are created with Nativescript. Used a nice NS template. You may check it stores by Cineworld23 names.
-
