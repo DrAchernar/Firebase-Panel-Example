@@ -1,7 +1,7 @@
 
 # Simple Php Firebase Panel with Auth0 Example for Your Apps that using Firebase DB*
 
- Created to update Cineworld23 mobile apps' firebase DB. 
+ Created to update cinema mobile apps' firebase DB. 
  Used auth0 from > https://auth0.com
  Used php-firebase sdk from > https://github.com/kreait/firebase-php
 
